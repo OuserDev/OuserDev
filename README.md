@@ -36,5 +36,5 @@
   <img src="https://img.shields.io/badge/eclipseide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> 
   <br>
 </div>
+<div align=center><h6>무능이 면죄부가 될 순 없다.</h6></div>
 
-무능이 면죄부가 될 순 없다.
