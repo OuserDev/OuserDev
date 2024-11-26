@@ -17,6 +17,6 @@
 </div>
 
 <div align="center" style="font-family: 'Great Vibes', cursive;">
-    <h6>무능은 면죄부가 될 수 없다.</h6>
+    <h3>무능은 면죄부가 될 수 없다.</h3>
 </div>
 
