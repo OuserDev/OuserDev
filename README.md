@@ -1,5 +1,7 @@
 
 <div align=center> 
+<img src="https://github.com/user-attachments/assets/5942487e-ae65-4197-9a05-5921dae24076" style="width:333px">
+
 <h1>📚 STACKS</h1>
 
 | Languages |
