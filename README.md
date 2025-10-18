@@ -16,7 +16,17 @@
 | --- | --- |
 | <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"><img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> | <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white"><img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><img src="https://img.shields.io/badge/vscode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"><img src="https://img.shields.io/badge/intellij_idea-000000?style=for-the-badge&logo=intellij-idea&logoColor=white"> |
   <br>
+
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=OuserDev&utm_content=farm">
+<img
+  src="https://render.gitanimals.org/farms/OuserDev"
+  width="600"
+  height="300"
+/>
+</a>
 </div>
+
+
 
 <div align="center" style="font-family: 'Great Vibes', cursive;">
     <h3>무능은 면죄부가 될 수 없다.</h3>
