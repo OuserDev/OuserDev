@@ -1,6 +1,6 @@
 
 <div align=center> 
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0000,100:8B0000&height=200&section=header&text=sunHye0k&fontSize=70&fontColor=4D4D4D" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0000,100:8B0000&height=200&section=header&text=Hi!%20I'm%20sunHye0k&fontSize=70&fontColor=4D4D4D" />
 <h1>🎯 About Me</h1>
 <h3>Future Cybersecurity GRC Consultant .</h3>
 <h3>🔍 Web Hacking & 🔬 Digital Forensics Focused !</h3>
