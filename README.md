@@ -31,7 +31,6 @@
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white"/>
-      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white"/>
     </td>
   </tr>
   <tr>
