@@ -2,8 +2,9 @@
 <div align=center> 
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:FF0000,100:8B0000&height=200&section=header&text=Hi!%20I'm%20sunHye0k&fontSize=70&fontColor=4D4D4D" />
 <h1>🎯 About Me</h1>
-<h3>Future Cybersecurity GRC Consultant .</h3>
-<h3>🔍 Vulnerability Assessment & 🛡️ Security Infrastructure Focused !</h3>
+<h3>Cybersecurity Technical Consultant</h3>
+<h3>🔍 Web Vulnerability Assessment</h3>
+<h3>🛡️ Infrastructure Security Diagnosis </h3>
   
 <br>
 
@@ -29,7 +30,6 @@
     <td align="center"><b>Programming</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
       <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=GNU-Bash&logoColor=white"/>
     </td>
   </tr>
@@ -51,30 +51,10 @@
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Web Development</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
     <td align="center"><b>Database</b></td>
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
       <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools & Collaboration</b></td>
-    <td>
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/>
     </td>
   </tr>
 </table>
@@ -91,6 +71,7 @@
 </div>
 
 <div align="center" style="font-family: 'Great Vibes', cursive;">
+  <br>
     <h3>무능은 면죄부가 될 수 없다.</h3>
 </div>
 
